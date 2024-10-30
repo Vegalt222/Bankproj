@@ -1,0 +1,79 @@
+using System
+
+System is a namespace. which contains the commonly used types.
+it is specified with a using a System directive.
+
+class Helloworld
+
+class definition:
+=================
+class is a syntax or structure used to bind related data members
+along with realted functionalities.
+
+
+syntax for class in c#:
+========================
+public class classname{
+
+
+}
+
+BankingApp
+===========
+deposit class
+withdraw class
+balanceenquiryclass
+creditdepartmentclass
+houseloanclass
+bankingstocksclass
+customerhistoryclass
+
+public static void Main(string[] args)====>main method(mandate statement with in the
+c# program)
+
+with out main() we cannot execute the c# program.
+program execution usually starts from main() onwards.
+
+Console.WriteLine();====>Here WriteLine() is a method of Console class which is defined
+in the System namespace.
+
+Every statement in c# program can be ends with an semicolon.
+
+class members:
+==============
+datatypes==>int
+variables===>x==>int x=100;
+methods===>WriteLine(), Main()
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        int x=100;
+        Console.WriteLine (x);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
