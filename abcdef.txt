@@ -3,3 +3,9 @@
 2. Java is a oops language.
 
 3. dotnet c# is a oops language.
+
+4. php is a language.
+
+5. javascript is a language.
+
+6. html is a language.
