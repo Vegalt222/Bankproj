@@ -1,0 +1,55 @@
+Dataset:
+======
+It is nothing a excel document which is used to maintain the different domains of data like healthcare, insurance, finance, banking.
+
+The reports in 2 ways:
+  a)xlsx report====>Excel report having an extension of filename.xlsx==>emp.xlsx
+  b)csv report(comma seperated value) report having an extension of filename.csv==>emp.csv.
+
+
+x=100
+df=100
+pd=pandas.read_excel()
+df=pandas.DataFrame()
+
+
+if we want to check the data inside of any module. we can use __dir__()
+
+import math
+print(math.__dir__())#check how many properties are there.
+print(math.factorial(5))#5!===>5*4*3*2*1==>120
+
+print(help(math))#to check how to work with each function with in a module.
+
+
+help():
+======
+it is a predefined inbuilt function in python which is used to view the complete description
+about every property with in a module.
+
+example:
+========
+print(help(math))#to check how to work with each function with in a module.
+
+__dir__():
+===========
+it is a predefined inbuilt function in python which is used to view the complete properties
+with in a module.
+
+example:
+========
+print(math.__dir__())#check how many properties are there.
+
+=========================================================
+*)pandas:
+========
+pandas is a one of the predefined module
+in python which is used to perform an
+dataframe kind of operations.
+
+using pandas we can the prepare the
+dataset in the form of tabular format using
+rows and columns using dataFrame() in python.
+
+If we want pandas module in python then we can install pandas module in python.
+pip install pandas.
