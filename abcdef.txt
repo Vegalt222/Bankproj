@@ -1,0 +1,5 @@
+1. python is oops language.
+
+2. Java is a oops language.
+
+3. dotnet c# is a oops language.
